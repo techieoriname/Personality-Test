@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-blue-200
+}
+
+.button__active {
+    @apply bg-blue-500 px-5 py-2 text-white disabled:cursor-not-allowed disabled:opacity-50
+}
+
+.button__inactive {
+    @apply border border-blue-500 px-5 py-2 text-blue-500 hover:bg-blue-500 hover:text-white
+}
