@@ -1,5 +1,5 @@
-#Personality Test
-
+# Personality Test
+![alt Screenshot](https://github.com/techieoriname/Personality-Test/blob/main/screenshot.png?raw=true)
 ### Backend - Express + Typescript + MongoDB + Jest
 
 
